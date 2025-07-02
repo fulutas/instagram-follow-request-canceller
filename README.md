@@ -23,9 +23,9 @@ Since Instagram login is performed via AJAX and the page behaves like a Single P
 1. Clone or download the project files.
 2. Install dependencies:
    ```bash
-   npm install puppeteer xlsx
+   npm install
    ```
-3. Create a username-list.json file in the project folder with usernames array, for example:
+3. Create a username-list.json file in the project folder with usernames array, for instagram username example:
    `["user1", "user2", "user3"]`
 4. Set your Instagram credentials in the script:
    `const INSTAGRAM_USERNAME = 'your_username'`
